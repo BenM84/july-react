@@ -1,0 +1,11 @@
+.Footer-container{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(243, 227, 227);
+    background-color: #e6b72b;
+    background-image: url("https://transparenttextures.com/patterns/football-no-lines.png");
+    padding: 70px 50px;
+    text-align: center;
+    border: none;
+    width: 100%;
+}
